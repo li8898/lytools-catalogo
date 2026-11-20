@@ -1,0 +1,1403 @@
+{
+ "actualizado": "2026-11-20",
+ "herramientas": [
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Amplía tus fotos con IA sin perder calidad: ideal para imprimir más grande.",
+   "n": "Upscayl",
+   "p": "gratis",
+   "x": "Programa gratuito y de código abierto que amplía imágenes hasta 16 veces con inteligencia artificial, directamente en tu PC, sin subir nada a internet. Muy útil para rescatar fotos pequeñas o antiguas y dejarlas listas para imprimir.",
+   "v": "2.15.0",
+   "u": "https://upscayl.org/download",
+   "logo": "upscayl.png",
+   "detectar": [
+    "upscayl"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Revelado RAW completo y gratuito: la alternativa libre a Lightroom.",
+   "n": "darktable",
+   "p": "gratis",
+   "x": "Editor RAW profesional y gratuito, con catálogo, módulos de color, máscaras y corrección de lente. Es la alternativa libre más completa a Lightroom Classic para revelar sesiones enteras sin pagar suscripción.",
+   "v": "5.6.2",
+   "u": "https://www.darktable.org/install/",
+   "logo": "darktable.png",
+   "detectar": [
+    "darktable"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Revelado RAW gratuito y muy detallado, para exprimir cada archivo.",
+   "n": "RawTherapee",
+   "p": "gratis",
+   "x": "Revelador RAW gratuito y de código abierto, famoso por su control fino del detalle, el color y el ruido. Ideal si te gusta ajustar cada parámetro del revelado.",
+   "u": "https://rawtherapee.com/downloads/",
+   "v": "5.13",
+   "logo": "rawtherapee.png",
+   "detectar": [
+    "rawtherapee"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Editor de fotos gratuito con capas, la alternativa libre a Photoshop.",
+   "n": "GIMP",
+   "p": "gratis",
+   "x": "Editor de imágenes gratuito y de código abierto con capas, máscaras, selecciones y filtros. Cubre gran parte del trabajo de Photoshop sin coste; acepta muchos de sus pinceles y formatos.",
+   "u": "https://www.gimp.org/downloads/",
+   "v": "3.2.8",
+   "logo": "gimp.png",
+   "detectar": [
+    "gimp"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Editor profesional tipo Photoshop, ahora gratis para particulares.",
+   "n": "Affinity (de Canva)",
+   "p": "gratis",
+   "x": "La suite Affinity pasó a ser gratuita para usuarios particulares tras unirse a Canva: edición por capas, revelado RAW y diseño en una sola aplicación. Las funciones de IA generativa quedan para los planes de pago de Canva.",
+   "u": "https://affinity.studio/download",
+   "v": "3.3.3.5004",
+   "logo": "affinity-de-canva.png",
+   "detectar": [
+    "affinity"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Pintura y edición gratuitas, buena para retoque con tableta.",
+   "n": "Krita",
+   "p": "gratis",
+   "x": "Aplicación gratuita de pintura digital y edición con un manejo de pinceles excelente para tabletas gráficas como tu Wacom. Sirve también para retoque y montajes sencillos.",
+   "u": "https://krita.org/en/download/",
+   "v": "5.3.4.1",
+   "logo": "krita.png",
+   "detectar": [
+    "krita"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Organiza y encuentra miles de fotos: gestión de archivo gratuita.",
+   "n": "digiKam",
+   "p": "gratis",
+   "x": "Gestor de fotos gratuito y de código abierto para organizar bibliotecas grandes: etiquetas, caras, mapas, búsquedas y revelado básico. Pensado para tener el archivo de sesiones bajo control.",
+   "u": "https://www.digikam.org/download/",
+   "v": "9.1.0",
+   "logo": "digikam.png",
+   "detectar": [
+    "digikam"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Visor y conversor rápido para cientos de formatos de imagen.",
+   "n": "XnView MP",
+   "p": "gratis",
+   "x": "Visor gratuito (para uso personal) que abre más de 500 formatos, convierte por lotes, renombra y redimensiona. Perfecto para revisar y preparar entregas sin abrir un editor pesado.",
+   "u": "https://www.xnview.com/en/xnview-mp/",
+   "v": "1.12.3",
+   "logo": "xnview-mp.png",
+   "detectar": [
+    "xnview"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "El visor más ligero y rápido para revisar fotos en Windows.",
+   "n": "IrfanView",
+   "p": "gratis",
+   "x": "Visor clásico de Windows, mínimo y velocísimo: ver, convertir, redimensionar y hacer ajustes básicos por lotes. Gratuito para uso personal.",
+   "u": "https://www.irfanview.com/main_download_engl.htm",
+   "v": "4.76",
+   "logo": "irfanview.png",
+   "detectar": [
+    "irfanview"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Visor gratuito con comparación de fotos y ajustes básicos.",
+   "n": "FastStone Image Viewer",
+   "p": "gratis",
+   "x": "Visor gratuito con comparador de imágenes lado a lado (muy útil para elegir la mejor toma), conversión por lotes y retoques básicos.",
+   "u": "https://www.faststone.org/FSViewerDownload.htm",
+   "v": "8.5",
+   "logo": "faststone-image-viewer.png",
+   "detectar": [
+    "faststone"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Une fotos en panorámicas perfectas, gratis.",
+   "n": "Hugin",
+   "p": "gratis",
+   "x": "Programa gratuito y de código abierto para coser panorámicas a partir de varias fotos, con corrección de perspectiva. El referente libre en panoramas.",
+   "u": "https://hugin.sourceforge.io/download/",
+   "v": "2026.0.0",
+   "logo": "hugin.png",
+   "detectar": [
+    "hugin"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Crea fotos HDR combinando varias exposiciones, gratis.",
+   "n": "Luminance HDR",
+   "p": "gratis",
+   "x": "Herramienta gratuita para HDR: combina fotos con distinta exposición y aplica mapeo de tonos. Para paisajes e interiores con mucha diferencia entre luces y sombras.",
+   "u": "https://sourceforge.net/projects/qtpfsgui/files/",
+   "v": null,
+   "logo": "luminance-hdr.png",
+   "detectar": [
+    "luminance"
+   ]
+  },
+  {
+   "a": "descargar",
+   "c": "programas",
+   "d": "Editor sencillo y gratuito para arreglos rápidos en Windows.",
+   "n": "Paint.NET",
+   "p": "gratis",
+   "x": "Editor ligero y gratuito para Windows: capas, ajustes y efectos sin la complejidad de Photoshop. Para arreglos rápidos y usuarios que empiezan.",
+   "u": "https://www.getpaint.net/download.html",
+   "v": "5.2",
+   "logo": "paint-net.png",
+   "detectar": [
+    "paint.net"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Enfoque, reducción de ruido y ampliación con IA profesional.",
+   "n": "Topaz Photo",
+   "p": "pago",
+   "x": "El referente en mejora de imagen con IA: quita ruido, enfoca fotos movidas o desenfocadas y amplía, con piloto automático que analiza cada foto. También funciona como plugin de Photoshop y Lightroom. De pago, por suscripción.",
+   "u": "https://www.topazlabs.com/topaz-photo",
+   "v": "1.8.2",
+   "logo": "topaz-photo.png",
+   "detectar": [
+    "topaz photo"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Ampliación de fotos con IA hasta un 600 % sin perder detalle.",
+   "n": "Topaz Gigapixel",
+   "p": "pago",
+   "x": "Especialista de Topaz en ampliar imágenes con IA regenerando detalle creíble. Para imprimir grande desde archivos pequeños. De pago.",
+   "u": "https://www.topazlabs.com/topaz-gigapixel",
+   "v": "1.5.0",
+   "logo": "topaz-gigapixel.png",
+   "detectar": [
+    "gigapixel"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Revelado RAW con la mejor reducción de ruido (DeepPRIME).",
+   "n": "DxO PhotoLab",
+   "p": "pago",
+   "x": "Editor RAW de pago con la reducción de ruido DeepPRIME, considerada de las mejores, y correcciones de lente medidas en laboratorio. Licencia de compra única, sin suscripción obligatoria.",
+   "u": "https://www.dxo.com/dxo-photolab/",
+   "v": "10.3.2",
+   "logo": "dxo-photolab.png",
+   "detectar": [
+    "photolab"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Revelado y captura conectada de estudio, nivel profesional.",
+   "n": "Capture One Pro",
+   "p": "pago",
+   "x": "El favorito de muchos estudios: color muy preciso, sesiones con la cámara conectada a la PC (tethering) y capas de ajuste. De pago, por suscripción o licencia perpetua.",
+   "u": "https://www.captureone.com/en/pricing/capture-one-pro",
+   "v": "16.9",
+   "logo": "capture-one-pro.png",
+   "detectar": [
+    "capture one"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Editor completo con IA: revelar, efectos y organización.",
+   "n": "ON1 Photo RAW",
+   "p": "pago",
+   "x": "Todo en uno de pago: revelado RAW, organización, máscaras con IA, efectos y ampliación. Se vende como alternativa sin suscripción forzosa a Lightroom y Photoshop.",
+   "u": "https://www.on1.com/products/photo-raw/",
+   "v": "2027",
+   "logo": "on1-photo-raw.png",
+   "detectar": [
+    "on1 photo"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Edición con IA muy visual: cielos, retratos y ambiente en un clic.",
+   "n": "Luminar Neo",
+   "p": "pago",
+   "x": "Editor de Skylum centrado en IA: reemplazo de cielos, retoque de retrato, luz y ambiente con controles deslizantes sencillos. También funciona como plugin de Photoshop. De pago.",
+   "u": "https://skylum.com/luminar/neo-trial-c",
+   "v": "1.29",
+   "logo": "luminar-neo.png",
+   "detectar": [
+    "luminar"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Organización y edición rápida de bibliotecas enormes.",
+   "n": "ACDSee Photo Studio",
+   "p": "pago",
+   "x": "Gestor y editor veterano, muy rápido moviendo bibliotecas grandes de fotos, con revelado y búsqueda por caras y datos. De pago.",
+   "u": "https://www.acdsee.com/en/products/photo-studio-ultimate/",
+   "v": "2027",
+   "logo": "acdsee-photo-studio.png",
+   "detectar": [
+    "acdsee"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Editor y organizador económico con casi todo incluido.",
+   "n": "Zoner Studio",
+   "p": "pago",
+   "x": "Suite asequible de edición, catálogo y publicación, popular en Europa. De pago, con suscripción baja o compra.",
+   "u": "https://www.zoner.com/",
+   "v": "19.2606.2.722",
+   "logo": "zoner-studio.png",
+   "detectar": [
+    "zoner"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Editor tipo Photoshop de compra única, sin suscripción.",
+   "n": "Corel PaintShop Pro",
+   "p": "pago",
+   "x": "Editor completo de Corel con capas, RAW y herramientas de IA, de pago único. Alternativa clásica para quien no quiere suscripciones.",
+   "u": "https://www.paintshoppro.com/en/products/paintshop-pro/standard/",
+   "v": "2023",
+   "logo": "corel-paintshop-pro.png",
+   "detectar": [
+    "paintshop"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Editor elegante y rápido, solo para Mac.",
+   "n": "Pixelmator Pro",
+   "p": "pago",
+   "x": "Editor de pago para Mac: capas, RAW y herramientas de IA con una interfaz muy cuidada. Solo sirve si trabajas en un Mac.",
+   "u": "https://www.apple.com/pixelmator-pro/",
+   "v": "4.4",
+   "logo": "pixelmator-pro.png",
+   "detectar": [
+    "pixelmator"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Selecciona y edita sesiones enteras con IA, en tu PC.",
+   "n": "Aftershoot",
+   "p": "pago",
+   "x": "Aplicación de pago que hace la primera selección de una sesión (descarta borrosas, ojos cerrados y duplicadas) y aplica tu estilo de edición aprendido. Trabaja en local, sin subir tus fotos. Pensada para bodas y retrato de volumen.",
+   "u": "https://aftershoot.com",
+   "v": null,
+   "logo": "aftershoot.png",
+   "detectar": [
+    "aftershoot"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Selección de fotos asistida por IA: tú decides, ella ordena.",
+   "n": "Narrative Select",
+   "p": "limites",
+   "x": "Ayuda a escoger las mejores fotos de una sesión: puntúa enfoque y ojos abiertos y agrupa escenas parecidas, pero la decisión final es tuya. Tiene plan gratuito limitado y planes de pago.",
+   "u": "https://narrative.so",
+   "v": null,
+   "logo": "narrative-select.png",
+   "detectar": [
+    "narrative"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Selección automática de fotos con IA, pensada para volumen.",
+   "n": "FilterPixel",
+   "p": "limites",
+   "x": "Servicio de selección con IA que puntúa cada foto y explica el motivo; orientado a eventos y entregas rápidas. Plan gratuito de prueba y suscripción.",
+   "u": "https://filterpixel.com",
+   "v": null,
+   "logo": "filterpixel.png",
+   "detectar": [
+    "filterpixel"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Busca fotos por contenido con IA, sin suscripción.",
+   "n": "Excire Foto",
+   "p": "pago",
+   "x": "Gestor con IA local: encuentra fotos por lo que se ve en ellas («niña con vestido rojo»), detecta duplicadas y ayuda a seleccionar. Compra única, sin nube. De pago.",
+   "u": "https://excire.com/en/excire-foto/",
+   "v": "5.1.1",
+   "logo": "excire-foto.png",
+   "detectar": [
+    "excire foto"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Retoque de retratos con IA por lotes: piel, ojos y dientes.",
+   "n": "Evoto AI",
+   "p": "limites",
+   "x": "Editor de retratos con IA muy usado en estudio: piel, ojos, dientes, maquillaje y fondos aplicados a series enteras. Se paga por créditos y deja probar gratis unas cuantas fotos.",
+   "u": "https://www.evoto.ai",
+   "v": null,
+   "logo": "evoto-ai.png",
+   "detectar": [
+    "evoto"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Mejora automática de color y luz con aspecto natural.",
+   "n": "Radiant Photo",
+   "p": "pago",
+   "x": "Editor que analiza cada foto y aplica correcciones de color y luz con acabado natural, sin el aspecto de filtro. De pago; también como plugin.",
+   "u": "https://radiantimaginglabs.com/en/products",
+   "v": "2.5",
+   "logo": "radiant-photo.png",
+   "detectar": [
+    "radiant photo"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Retoque de retratos guiado: piel, rostro e iluminación.",
+   "n": "PortraitPro",
+   "p": "pago",
+   "x": "El clásico programa de Anthropics para retrato: piel, forma del rostro, ojos, dientes e iluminación con controles deslizantes. De pago; también como plugin de Photoshop.",
+   "u": "https://www.anthropics.com/portraitpro/",
+   "v": "27",
+   "logo": "portraitpro.png",
+   "detectar": [
+    "portraitpro"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Reducción de ruido clásica y muy eficaz, con perfiles por cámara.",
+   "n": "Neat Image",
+   "p": "pago",
+   "x": "Especialista veterano en quitar ruido de fotos con ISO alto usando perfiles de tu cámara. De pago; programa suelto y plugin de Photoshop.",
+   "u": "https://ni.neatvideo.com",
+   "v": "9.3.5",
+   "logo": "neat-image.png",
+   "detectar": [
+    "neat image"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Ingesta y selección manual ultrarrápida para profesionales.",
+   "n": "Photo Mechanic",
+   "p": "pago",
+   "x": "El estándar de fotoperiodismo para descargar tarjetas, previsualizar RAW al instante y etiquetar. Sin IA: velocidad pura para elegir y enviar. De pago.",
+   "u": "https://home.camerabits.com",
+   "v": "2026.6",
+   "logo": "photo-mechanic.png",
+   "detectar": [
+    "photo mechanic"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Revisión técnica del RAW: enfoque, exposición y ruido reales.",
+   "n": "FastRawViewer",
+   "p": "pago",
+   "x": "Visor económico que muestra el RAW de verdad (no la vista de la cámara): histograma real, detección de foco y zonas quemadas. Para descartar con criterio técnico. De pago, muy barato.",
+   "u": "https://www.fastrawviewer.com",
+   "v": "2.0.11",
+   "logo": "fastrawviewer.png",
+   "detectar": [
+    "fastrawviewer"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Toda tu biblioteca sincronizada entre PC y teléfonos.",
+   "n": "Mylio Photos",
+   "p": "pago",
+   "x": "Organizador que mantiene tu biblioteca de fotos sincronizada entre tus equipos sin depender de la nube de terceros. De pago.",
+   "u": "https://mylio.com",
+   "v": "24.8",
+   "logo": "mylio-photos.png",
+   "detectar": [
+    "mylio"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Editor con IA y muchas plantillas, para foto y diseño rápido.",
+   "n": "CyberLink PhotoDirector",
+   "p": "pago",
+   "x": "Editor de pago con herramientas de IA, capas y plantillas para redes y productos. Intermedio entre consumo y profesional.",
+   "u": "https://www.cyberlink.com/products/photodirector-photo-editing-software-365/overview_en_US.html",
+   "v": "2027",
+   "logo": "cyberlink-photodirector.png",
+   "detectar": [
+    "photodirector"
+   ]
+  },
+  {
+   "a": "pagina",
+   "c": "programas",
+   "d": "Selección automática económica para sesiones grandes.",
+   "n": "Optyx",
+   "p": "pago",
+   "x": "Aplicación de selección con IA de precio bajo: puntúa y agrupa las fotos de una sesión para quedarte con las mejores. De pago.",
+   "u": "https://www.optyx.app",
+   "v": null,
+   "logo": null,
+   "detectar": [
+    "optyx"
+   ]
+  },
+  {
+   "n": "Retouch4me — Separación de frecuencias",
+   "c": "plugins",
+   "p": "gratis",
+   "a": "descargar",
+   "d": "Crea solo las capas de separación de frecuencias para retocar piel.",
+   "x": "Plugin gratuito de Retouch4me que monta automáticamente la separación de frecuencias en capas, lista para retocar la piel con el tampón y el pincel corrector. La puerta de entrada a su suite de retoque con IA.",
+   "u": "https://retouch4.me/products/retouch-plugins/116",
+   "v": null,
+   "logo": "retouch4me-separacion-de-frecuencias.png",
+   "detectar": [
+    "frequency separation"
+   ]
+  },
+  {
+   "n": "Harry's Filters",
+   "c": "plugins",
+   "p": "gratis",
+   "a": "descargar",
+   "d": "Caja de efectos clásica y gratuita para jugar con color y luz.",
+   "x": "Colección gratuita de The Plugin Site con decenas de efectos de color, luz y distorsión compatibles con Photoshop. Clásica y ligera, para experimentar sin pagar.",
+   "u": "https://thepluginsite.com/products/harrysfilters/index.htm",
+   "v": "4.0",
+   "logo": null,
+   "detectar": [
+    "harry's filters"
+   ]
+  },
+  {
+   "n": "PhotoFreebies",
+   "c": "plugins",
+   "p": "gratis",
+   "a": "descargar",
+   "d": "Utilidades gratuitas: viñetas, marcos, desenfoques y más.",
+   "x": "Pack gratuito de The Plugin Site con utilidades de uso diario (viñeteado, marcos, desenfoque selectivo, correcciones rápidas) que complementan a Photoshop.",
+   "u": "https://thepluginsite.com/products/photowiz/index.htm",
+   "v": "2.0",
+   "logo": null,
+   "detectar": [
+    "photofreebies"
+   ]
+  },
+  {
+   "n": "Adobe Exchange",
+   "c": "plugins",
+   "p": "mixto",
+   "a": "abrir",
+   "d": "La tienda oficial de extensiones de Adobe: muchas son gratis.",
+   "x": "El mercado oficial de Adobe para Photoshop y Lightroom: paneles, acciones, presets y plugins de terceros, con una gran sección gratuita. Todo se instala desde Creative Cloud, sin webs raras.",
+   "u": "https://exchange.adobe.com",
+   "v": null,
+   "logo": "adobe-exchange.png"
+  },
+  {
+   "n": "Nik Collection (DxO)",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "La colección clásica de efectos y retoque creativo.",
+   "x": "Suite de pago de DxO con Color Efex, Silver Efex (blanco y negro), Viveza, Sharpener y más. Funciona como plugin de Photoshop y Lightroom y también suelto. Un estándar del retoque creativo.",
+   "u": "https://nikcollection.dxo.com",
+   "v": "9",
+   "logo": "nik-collection-dxo.png",
+   "detectar": [
+    "nik collection"
+   ]
+  },
+  {
+   "n": "Imagenomic Portraiture",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Suavizado de piel natural y rápido, un clásico del retrato.",
+   "x": "Plugin de pago especializado en piel: suaviza manteniendo la textura y el poro, con máscara automática por tonos de piel. Muy usado en retrato y belleza para trabajar series rápido.",
+   "u": "https://imagenomic.com/",
+   "v": null,
+   "logo": "imagenomic-portraiture.png",
+   "detectar": [
+    "portraiture"
+   ]
+  },
+  {
+   "n": "Imagenomic Noiseware",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Quita el ruido sin ablandar la foto.",
+   "x": "Plugin de pago de Imagenomic para reducir ruido conservando detalle y nitidez, con perfiles automáticos por imagen. Compañero clásico de Portraiture.",
+   "u": "https://imagenomic.com/",
+   "v": null,
+   "logo": "imagenomic-noiseware.png",
+   "detectar": [
+    "noiseware"
+   ]
+  },
+  {
+   "n": "Imagenomic RealGrain",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Grano de película realista sobre tus fotos digitales.",
+   "x": "Añade grano con la estructura y respuesta de películas clásicas, simulando también sus curvas de color. De pago, para acabados de estilo analógico.",
+   "u": "https://imagenomic.com/",
+   "v": null,
+   "logo": "imagenomic-realgrain.png",
+   "detectar": [
+    "realgrain"
+   ]
+  },
+  {
+   "n": "Retouch4me (suite de retoque IA)",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Retoque de retrato con IA por módulos: piel, ojos, fondos…",
+   "x": "Familia de plugins de pago que automatizan el retoque: quitar imperfecciones, dodge & burn, tono de piel, volumen del retrato, limpiar fondos y suelos… Se compran por módulos o en pack y trabajan dentro de Photoshop.",
+   "u": "https://retouch4.me",
+   "v": null,
+   "logo": "retouch4me-suite-de-retoque-ia.png",
+   "detectar": [
+    "retouch4me"
+   ]
+  },
+  {
+   "n": "TK Actions (Tony Kuyper)",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Panel de máscaras de luminosidad para un control fino.",
+   "x": "Panel de pago para Photoshop centrado en máscaras de luminosidad y selecciones por tono/color: el favorito de paisaje y retoque fino para ajustes muy precisos sin bordes feos.",
+   "u": "https://goodlight.us/panels-and-videos.html",
+   "v": "4.1.1",
+   "logo": "tk-actions-tony-kuyper.png",
+   "detectar": [
+    "tonykuyper",
+    "tk9",
+    "tk actions"
+   ]
+  },
+  {
+   "n": "Lumenzia",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Máscaras de luminosidad visuales y fáciles de refinar.",
+   "x": "Panel de pago de Greg Benz: previsualiza las máscaras de luminosidad sobre la foto y las combina con un clic. Para mezclas de exposición y ajustes por zonas con aspecto natural.",
+   "u": "https://gregbenzphotography.com/lumenzia",
+   "v": "12.1.4",
+   "logo": "lumenzia.png",
+   "detectar": [
+    "lumenzia"
+   ]
+  },
+  {
+   "n": "Raya Pro",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Panel completo de mezcla de exposiciones y acabado.",
+   "x": "Panel de pago de Jimmy McIntyre para Photoshop: mezcla de exposiciones, máscaras de luminosidad, nitidez web y acciones de acabado. Muy popular en paisaje urbano y naturaleza.",
+   "u": "https://www.shutterevolve.com/raya-pro-the-ultimate-digital-blending-workflow-panel-for-photoshop/",
+   "v": "6.0",
+   "logo": "raya-pro.png",
+   "detectar": [
+    "raya"
+   ]
+  },
+  {
+   "n": "Infinite Color Panel",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Armonías de color profesionales con un par de clics.",
+   "x": "Panel de pago creado por Pratik Naik: genera armonías y gradaciones de color de nivel editorial para igualar tonos entre fotos o crear un estilo propio.",
+   "u": "https://infinitecolorpanel.com/collections/products/products/infinite-color-panel",
+   "v": null,
+   "logo": "infinite-color-panel.png",
+   "detectar": [
+    "infinite color"
+   ]
+  },
+  {
+   "n": "Beauty Retouch Panel",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Panel de retoque de belleza con el flujo de los profesionales.",
+   "x": "Panel de pago de Retouching Academy que ordena el flujo de retoque de piel, ojos, dientes, pelo y maquillaje digital con capas preparadas y acciones guiadas.",
+   "u": "https://retouchingacademy.com/beauty_retouch/",
+   "v": "6.0",
+   "logo": "beauty-retouch-panel.png",
+   "detectar": [
+    "beauty retouch"
+   ]
+  },
+  {
+   "n": "Boris FX Optics",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Efectos visuales de cine: luces, partículas y atmósferas.",
+   "x": "Plugin de pago con más de 160 filtros y miles de presets de efectos (destellos, humo, fuego, neblina, vidrio…). Para montajes y fotos con ambiente cinematográfico.",
+   "u": "https://borisfx.com/products/optics/",
+   "v": "2026.5.2",
+   "logo": "boris-fx-optics.png",
+   "detectar": [
+    "boris fx"
+   ]
+  },
+  {
+   "n": "Filter Forge",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Miles de filtros creados por la comunidad, editables.",
+   "x": "Plugin de pago que carga una biblioteca enorme de filtros y texturas creados por usuarios, todos editables. Para efectos, marcos y texturas sin salir de Photoshop.",
+   "u": "https://www.filterforge.com/",
+   "v": "15.0",
+   "logo": "filter-forge.png",
+   "detectar": [
+    "filter forge"
+   ]
+  },
+  {
+   "n": "DxO PureRAW",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Limpia el RAW antes de editar: ruido y lente, perfectos.",
+   "x": "Prepara tus RAW con la tecnología de DxO (ruido DeepPRIME y correcciones de lente de laboratorio) y entrega un archivo listo para Photoshop o Lightroom. De pago; se integra como plugin.",
+   "u": "https://www.dxo.com/en/dxo-pureraw",
+   "v": "6",
+   "logo": "dxo-pureraw.png",
+   "detectar": [
+    "pureraw"
+   ]
+  },
+  {
+   "n": "DxO FilmPack",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Aspecto de película clásica con grano y color fieles.",
+   "x": "Simulaciones de películas legendarias con su grano y color, medidas de originales. De pago; programa suelto y plugin.",
+   "u": "https://www.dxo.com/en/dxo-filmpack/",
+   "v": "8.12",
+   "logo": "dxo-filmpack.png",
+   "detectar": [
+    "filmpack"
+   ]
+  },
+  {
+   "n": "DxO ViewPoint",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Corrige perspectivas y volúmenes deformados.",
+   "x": "Arregla edificios que se caen, horizontes y la deformación de los rostros en los bordes de los gran angulares. De pago; suelto y plugin.",
+   "u": "https://www.dxo.com/en/dxo-viewpoint/",
+   "v": "6.1",
+   "logo": "dxo-viewpoint.png",
+   "detectar": [
+    "viewpoint"
+   ]
+  },
+  {
+   "n": "Exposure (Exposure Software)",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Presets de película y edición creativa con mucho gusto.",
+   "x": "El heredero de Alien Skin Exposure: cientos de presets de película muy cuidados, grano real y editor RAW propio. De pago; suelto y plugin de Photoshop y Lightroom.",
+   "u": "https://exposure.software/",
+   "v": "X7.1",
+   "logo": "exposure-exposure-software.png",
+   "detectar": [
+    "exposure"
+   ]
+  },
+  {
+   "n": "ON1 Effects",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Efectos y estilos apilables con máscaras de IA.",
+   "x": "Colección de pago de efectos fotográficos (aspectos, bordes, tonos, resplandores) que se apilan y se enmascaran con IA. Suelto y plugin.",
+   "u": "https://www.on1.com/products/effects/",
+   "v": "2026.5.2",
+   "logo": "on1-effects.png",
+   "detectar": [
+    "on1 effects"
+   ]
+  },
+  {
+   "n": "Perfectly Clear",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Corrección automática de exposición y color en un clic.",
+   "x": "Corrección automática veterana usada por laboratorios de impresión: exposición, color, ojos rojos y nitidez en lote. De pago; suelto y plugin.",
+   "u": "https://perfectlyclear.ai/",
+   "v": null,
+   "logo": "perfectly-clear.png",
+   "detectar": [
+    "perfectly clear"
+   ]
+  },
+  {
+   "n": "PTLens",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Corrige la distorsión de tus objetivos con su base de datos.",
+   "x": "Plugin económico que corrige distorsión de barril, viñeteado y aberración cromática usando perfiles de miles de objetivos. De pago, muy barato.",
+   "u": "https://epaperpress.com/ptlens/",
+   "v": "9.2",
+   "logo": "ptlens.png",
+   "detectar": [
+    "ptlens"
+   ]
+  },
+  {
+   "n": "Focus Magic",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Rescata fotos desenfocadas o movidas.",
+   "x": "Especialista en recuperar nitidez en fotos fuera de foco o con movimiento, usando deconvolución avanzada. De pago; suelto y plugin.",
+   "u": "https://www.focusmagic.com/",
+   "v": "6.24",
+   "logo": "focus-magic.png",
+   "detectar": [
+    "focus magic"
+   ]
+  },
+  {
+   "n": "AKVIS (suite de retoque)",
+   "c": "plugins",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Familia de programas de retoque, ruido, HDR y efectos.",
+   "x": "Casa rusa con muchas herramientas (Retoucher, Noise Buster, Enhancer, Sketch…), cada una suelta y como plugin de Photoshop. De pago por programa.",
+   "u": "https://akvis.com/en/store.php",
+   "v": null,
+   "logo": "akvis-suite-de-retoque.png",
+   "detectar": [
+    "akvis"
+   ]
+  },
+  {
+   "n": "Plugins de Jeffrey Friedl",
+   "c": "lightroom",
+   "p": "gratis",
+   "a": "descargar",
+   "d": "Decenas de plugins útiles para Lightroom, por donación.",
+   "x": "Jeffrey Friedl mantiene desde hace años los plugins más útiles de Lightroom Classic (exportaciones especiales, metadatos, geocodificación, gestión). Se descargan gratis y funcionan por donación voluntaria.",
+   "u": "https://regex.info/blog/lightroom-goodies",
+   "v": null,
+   "logo": "plugins-de-jeffrey-friedl.png",
+   "detectar": [
+    "friedl"
+   ]
+  },
+  {
+   "n": "LR/Enfuse",
+   "c": "lightroom",
+   "p": "gratis",
+   "a": "descargar",
+   "d": "Mezcla exposiciones en Lightroom con aspecto natural.",
+   "x": "Plugin de fusión de exposiciones para Lightroom Classic: combina fotos con distinto brillo con un resultado natural, sin el aspecto típico del HDR. Gratuito con donación.",
+   "u": "http://photographers-toolbox.com/products/lrenfuse.php",
+   "v": null,
+   "logo": null,
+   "detectar": [
+    "enfuse"
+   ]
+  },
+  {
+   "n": "MIDI2LR",
+   "c": "lightroom",
+   "p": "gratis",
+   "a": "descargar",
+   "d": "Controla Lightroom con una controladora MIDI económica.",
+   "x": "Proyecto gratuito y de código abierto para manejar los deslizadores de Lightroom Classic con una controladora MIDI (ruedas y faders físicos). Para editar más rápido con las manos en los controles.",
+   "u": "https://github.com/rsjaffe/MIDI2LR/releases/latest",
+   "v": "6.3.1.0",
+   "logo": "midi2lr.png",
+   "detectar": [
+    "midi2lr"
+   ]
+  },
+  {
+   "n": "LRTimelapse",
+   "c": "lightroom",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Timelapses profesionales desde Lightroom, sin parpadeos.",
+   "x": "La herramienta de referencia para crear timelapses con Lightroom: suaviza cambios de luz y exposición entre cientos de fotos y elimina el parpadeo. De pago.",
+   "u": "https://lrtimelapse.com/",
+   "v": "7.5.5",
+   "logo": "lrtimelapse.png",
+   "detectar": [
+    "lrtimelapse"
+   ]
+  },
+  {
+   "n": "Excire Search (plugin)",
+   "c": "lightroom",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Busca en tu catálogo por lo que se ve en la foto.",
+   "x": "Plugin de Excire para Lightroom Classic: encuentra fotos por contenido, caras o similitud sin depender de palabras clave. De pago.",
+   "u": "https://excire.com/en/excire-search/",
+   "v": "5.0.6",
+   "logo": "excire-search-plugin.png",
+   "detectar": [
+    "excire search"
+   ]
+  },
+  {
+   "n": "Imagen",
+   "c": "lightroom",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Edita tus sesiones de Lightroom con una IA que aprende tu estilo.",
+   "x": "Servicio que aprende de tus catálogos ya editados y aplica tu estilo a sesiones nuevas dentro de Lightroom Classic (color, exposición, encuadre y máscaras). Se paga por foto o con plan ilimitado. Necesita internet.",
+   "u": "https://imagen-ai.com/",
+   "v": null,
+   "logo": "imagen.png",
+   "detectar": [
+    "imagen"
+   ]
+  },
+  {
+   "n": "Any Filter (John R. Ellis)",
+   "c": "lightroom",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Filtros de búsqueda avanzados para el catálogo.",
+   "x": "Plugin económico para Lightroom Classic que permite filtrar y buscar por casi cualquier dato de la foto (lente, ajustes, palabras, fechas) combinando condiciones. De pago.",
+   "u": "https://johnrellis.com/lightroom/anyfilter.htm",
+   "v": "1.79",
+   "logo": "any-filter-john-r-ellis.png",
+   "detectar": [
+    "any filter"
+   ]
+  },
+  {
+   "n": "Presets gratuitos de ON1",
+   "c": "lightroom",
+   "p": "gratis",
+   "a": "descargar",
+   "d": "Packs de presets oficiales de ON1, gratis al registrarte.",
+   "x": "ON1 regala periódicamente packs de presets y estilos para Lightroom y su propio editor a cambio del correo. Una forma fácil de ampliar tu biblioteca de estilos sin pagar.",
+   "u": "https://www.on1.com/free/lightroom-presets/",
+   "v": null,
+   "logo": "presets-gratuitos-de-on1.png"
+  },
+  {
+   "n": "Mastin Labs",
+   "c": "lightroom",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Presets con aspecto de película para retrato y bodas.",
+   "x": "Presets de pago que emulan películas clásicas (Portra, Fuji, Ilford) con un acabado suave muy usado en bodas y retrato. Para Lightroom y Capture One.",
+   "u": "https://mastinlabs.com/",
+   "v": null,
+   "logo": "mastin-labs.png"
+  },
+  {
+   "n": "Tribe Archipelago",
+   "c": "lightroom",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Presets cálidos y luminosos de fotógrafos de bodas.",
+   "x": "Colecciones de presets de pago creadas por fotógrafos de bodas reconocidos: tonos cálidos, piel cuidada y luz suave. Para Lightroom.",
+   "u": "https://archipelagopresets.com/",
+   "v": null,
+   "logo": "tribe-archipelago.png"
+  },
+  {
+   "n": "DVLOP",
+   "c": "lightroom",
+   "p": "pago",
+   "a": "pagina",
+   "d": "Presets de autor de fotógrafos internacionales.",
+   "x": "Plataforma de presets de pago de fotógrafos de bodas y retrato de primer nivel, con perfiles de color propios para Lightroom. Para quien busca un estilo firmado.",
+   "u": "https://dvlop.com/",
+   "v": null,
+   "logo": "dvlop.png"
+  },
+  {
+   "n": "remove.bg",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Quita el fondo de una foto en segundos, desde el navegador.",
+   "x": "El quitafondos más famoso: subes la foto y en segundos la devuelve sin fondo, con bordes limpios incluso en el pelo. Gratis en tamaño de vista previa; las descargas en alta calidad van por créditos.",
+   "u": "https://www.remove.bg",
+   "logo": "remove-bg.png"
+  },
+  {
+   "n": "Photoroom",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Fondos y fotos de producto con acabado de estudio.",
+   "x": "Quita el fondo y crea escenas de producto con sombras e iluminación de estudio, muy usado para tiendas. Plan gratuito con límites y marca en algunas salidas.",
+   "u": "https://www.photoroom.com",
+   "logo": "photoroom.png"
+  },
+  {
+   "n": "Cleanup.pictures",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Borra objetos, personas y textos de las fotos con un trazo.",
+   "x": "Pintas sobre lo que sobra (una persona, un cable, un cartel) y la IA lo elimina rellenando el fondo. Gratis con resolución limitada; la alta calidad es de pago.",
+   "u": "https://cleanup.pictures",
+   "logo": "cleanup-pictures.png"
+  },
+  {
+   "n": "Pixelcut",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Recortes muy precisos y fondos nuevos con IA.",
+   "x": "Especialista en recorte de personas y productos con bordes muy finos, más generador de fondos. Gratis con límites diarios.",
+   "u": "https://www.pixelcut.ai",
+   "logo": "pixelcut.png"
+  },
+  {
+   "n": "Cutout Pro",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Quitar fondos, mejorar y colorear, todo en una web.",
+   "x": "Suite web de IA: quitar fondos de foto y video, mejorar calidad, colorear blanco y negro y fotos de carnet. Gratis con créditos de prueba.",
+   "u": "https://www.cutout.pro",
+   "logo": "cutout-pro.png"
+  },
+  {
+   "n": "PicWish",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Retoque de retratos y fondos desde el navegador.",
+   "x": "Herramientas web de IA con buen retoque de retrato: quitar fondos, mejorar nitidez, restaurar y ampliar. Gratis con límites.",
+   "u": "https://picwish.com",
+   "logo": "picwish.png"
+  },
+  {
+   "n": "YouCam Online Editor",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Editor web completo: fondos, mejora, objetos y color.",
+   "x": "Editor en línea de Perfect Corp que junta quitar fondos, mejorar fotos, borrar objetos, cambiar fondos y colorear. Gratis para empezar, con funciones de pago.",
+   "u": "https://yce.perfectcorp.com",
+   "logo": "youcam-online-editor.png"
+  },
+  {
+   "n": "Remini (web)",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Restaura y mejora retratos antiguos o borrosos.",
+   "x": "La famosa mejora de retratos con IA, también en versión web: rescata caras en fotos viejas, borrosas o de baja resolución. Gratis con límites y anuncios; la versión completa es de pago.",
+   "u": "https://app.remini.ai",
+   "logo": "remini-web.png"
+  },
+  {
+   "n": "Adobe Firefly (web)",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Relleno generativo y efectos de Adobe en el navegador.",
+   "x": "La IA generativa de Adobe en la web: relleno generativo, generar imágenes y efectos de texto, con créditos gratuitos al mes con tu cuenta de Adobe.",
+   "u": "https://firefly.adobe.com",
+   "logo": "adobe-firefly-web.png"
+  },
+  {
+   "n": "Adobe Express",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Diseño y retoques rápidos con ayuda de la IA de Adobe.",
+   "x": "Editor web de Adobe para arreglos rápidos, quitar fondos, insertar o borrar objetos y crear diseños para redes. El plan gratuito incluye generaciones de IA cada día.",
+   "u": "https://express.adobe.com",
+   "logo": "adobe-express.png"
+  },
+  {
+   "n": "Canva",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Editor y diseño con IA: fondos, borrador mágico y más.",
+   "x": "El editor de diseño más popular, con herramientas de IA para fotos (quitar fondos y borrar objetos son de la versión Pro). El plan gratuito sirve para diseñar y editar lo básico.",
+   "u": "https://www.canva.com",
+   "logo": "canva.png"
+  },
+  {
+   "n": "Pixlr",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Editor web rápido con relleno y expansión generativa.",
+   "x": "Editor en línea con capas y herramientas de IA (generar, expandir, quitar fondos). Plan gratuito con anuncios y límites; funciona sin instalar nada.",
+   "u": "https://pixlr.com",
+   "logo": "pixlr.png"
+  },
+  {
+   "n": "Fotor",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Retoque de retrato y mejora de fotos en el navegador.",
+   "x": "Editor web con buenos automatismos de retrato (piel, ojos, sonrisa), mejora con IA y diseño. Gratis con límites y marcas en parte de la IA.",
+   "u": "https://www.fotor.com",
+   "logo": "fotor.png"
+  },
+  {
+   "n": "Photopea",
+   "c": "webs",
+   "p": "gratis",
+   "a": "abrir",
+   "d": "Un Photoshop en el navegador: capas, PSD y RAW, gratis.",
+   "x": "Editor web gratuito que abre PSD, RAW y más, con capas, máscaras y selecciones casi como Photoshop, además de quitar fondos con IA. Se financia con anuncios; no hay que instalar nada.",
+   "u": "https://www.photopea.com",
+   "logo": "photopea.png"
+  },
+  {
+   "n": "BeFunky",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Mejora de fotos amable y rápida, con collages.",
+   "x": "Editor web sencillo con mejora automática, retoques y collages. Parte de las herramientas de IA son del plan de pago.",
+   "u": "https://www.befunky.com",
+   "logo": "befunky.png"
+  },
+  {
+   "n": "Picsart",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Editor creativo con IA para fotos llamativas.",
+   "x": "Editor web y móvil con muchas herramientas de IA y efectos creativos, fondos y pegatinas. Gratis con límites; pensado para contenido social.",
+   "u": "https://picsart.com",
+   "logo": "picsart.png"
+  },
+  {
+   "n": "Krea",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Edita y genera imágenes describiendo el cambio.",
+   "x": "Plataforma de IA creativa: editar por texto, mejorar, expandir y generar variaciones. Regala unas 100 unidades de cómputo al día en el plan gratuito.",
+   "u": "https://www.krea.ai",
+   "logo": "krea.png"
+  },
+  {
+   "n": "Recraft",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Edición generativa precisa y trabajo con vectores.",
+   "x": "IA de diseño que permite borrar objetos, cambiar fondos, ampliar y vectorizar con buen control. El plan gratuito da unas 30 generaciones al día (uso no comercial).",
+   "u": "https://www.recraft.ai",
+   "logo": "recraft.png"
+  },
+  {
+   "n": "Leonardo AI",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Genera y edita imágenes con modelos muy afinados.",
+   "x": "Plataforma de generación y edición de imágenes con créditos diarios gratuitos. Útil para crear fondos o elementos para montajes.",
+   "u": "https://app.leonardo.ai",
+   "logo": "leonardo-ai.png"
+  },
+  {
+   "n": "Playground AI",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Genera y mezcla imágenes con un lienzo sencillo.",
+   "x": "Editor generativo en línea para crear y retocar imágenes mezclando fotos reales con IA. Plan gratuito con generaciones diarias.",
+   "u": "https://playground.com",
+   "logo": "playground-ai.png"
+  },
+  {
+   "n": "Magnific (de Freepik)",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Ampliación y retoque con IA de nivel espectacular.",
+   "x": "La herramienta de Freepik para ampliar y transformar fotos con IA regenerando detalle (antes Magnific AI). Uso gratuito diario limitado; el detalle completo es de pago.",
+   "u": "https://www.magnific.com",
+   "logo": "magnific-de-freepik.png"
+  },
+  {
+   "n": "Clipdrop",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Quitar fondos, reiluminar y ampliar, de Stability AI.",
+   "x": "Caja de herramientas de IA: quitar y cambiar fondos, reiluminar retratos, borrar objetos y ampliar. Gratis con límites y marca en algunas salidas.",
+   "u": "https://clipdrop.co",
+   "logo": "clipdrop.png"
+  },
+  {
+   "n": "Let's Enhance",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Amplía fotos para imprimir conservando la textura.",
+   "x": "Ampliador web con IA que cuida la textura de piel y tejidos; muy usado para producto y retrato. Créditos gratuitos al registrarte.",
+   "u": "https://letsenhance.io",
+   "logo": "let-s-enhance.png"
+  },
+  {
+   "n": "VanceAI",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Suite web: ampliar, enfocar y quitar ruido con IA.",
+   "x": "Conjunto de herramientas con IA (ampliar, nitidez, ruido, fondos, colorear) con créditos gratuitos de bienvenida. El uso continuo es de pago.",
+   "u": "https://vanceai.com",
+   "logo": "vanceai.png"
+  },
+  {
+   "n": "Upscale.media",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Ampliación rápida en el navegador, sin registro al principio.",
+   "x": "Sube la foto y la devuelve ampliada con IA en segundos. Gratis para las primeras imágenes; luego pide cuenta y pago.",
+   "u": "https://www.upscale.media",
+   "logo": "upscale-media.png"
+  },
+  {
+   "n": "Bigjpg",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Amplía ilustraciones y fotos reduciendo el ruido.",
+   "x": "Ampliador en línea pensado primero para ilustración, también válido para fotos con ruido. Gratis con tamaño limitado; más grande, de pago.",
+   "u": "https://bigjpg.com",
+   "logo": "bigjpg.png"
+  },
+  {
+   "n": "waifu2x",
+   "c": "webs",
+   "p": "gratis",
+   "a": "abrir",
+   "d": "Ampliación gratuita clásica, ideal para dibujos y logos.",
+   "x": "El ampliador gratuito original con redes neuronales: reduce ruido y duplica el tamaño. Brilla con ilustraciones y gráficos; con fotos reales es más limitado.",
+   "u": "https://www.waifu2x.net",
+   "logo": "waifu2x.png"
+  },
+  {
+   "n": "Palette.fm",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Colorea fotos en blanco y negro con un clic.",
+   "x": "Sube una foto en blanco y negro y la colorea con IA con varios estilos a elegir. Gratis para probarlo; las descargas grandes son de pago. Muy útil con fotos antiguas de familia.",
+   "u": "https://palette.fm",
+   "logo": "palette-fm.png"
+  },
+  {
+   "n": "Hotpot AI",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Cajón de herramientas IA: restaurar, colorear, fondos.",
+   "x": "Web con muchas miniherramientas de IA: restaurar fotos, colorear, quitar fondos, ampliar y quitar objetos. Gratis con créditos diarios.",
+   "u": "https://hotpot.ai",
+   "logo": "hotpot-ai.png"
+  },
+  {
+   "n": "Gemini (Google)",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Edita fotos describiendo el cambio, en el chat de Google.",
+   "x": "El asistente de Google edita imágenes por conversación («quita a la persona del fondo», «haz la luz de atardecer») con resultados muy naturales. Gratis con límites según la cuenta y el país.",
+   "u": "https://gemini.google.com",
+   "logo": "gemini-google.png"
+  },
+  {
+   "n": "ChatGPT",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Edición de imágenes por texto con el asistente de OpenAI.",
+   "x": "Subes una foto y describes el cambio: fondos, objetos, estilo o retoques. El plan gratuito permite algunas ediciones al día; el de pago, muchas más.",
+   "u": "https://chatgpt.com",
+   "logo": "chatgpt.png"
+  },
+  {
+   "n": "Image Creator (Microsoft)",
+   "c": "webs",
+   "p": "gratis",
+   "a": "abrir",
+   "d": "Genera imágenes gratis con tu cuenta de Microsoft.",
+   "x": "El generador de imágenes de Microsoft (antes Bing Image Creator): gratis con tu cuenta, con créditos rápidos que se renuevan. Para crear fondos y recursos para montajes.",
+   "u": "https://www.bing.com/images/create",
+   "logo": "image-creator-microsoft.png"
+  },
+  {
+   "n": "insMind",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Fotos de producto y fondos con IA para tiendas.",
+   "x": "Orientada a comercio: quita y genera fondos de producto, mejora y crea escenas. Gratis en parte; las exportaciones completas van por créditos.",
+   "u": "https://www.insmind.com",
+   "logo": "insmind.png"
+  },
+  {
+   "n": "Luminar Web (Skylum)",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Ajustes y luz de Luminar directamente en el navegador.",
+   "x": "Versión web de Luminar: ajustes de luz, color y curvas gratis, y herramientas de IA de retrato y mejora en la parte de pago. Para retoques rápidos sin instalar.",
+   "u": "https://skylum.com/luminar-web",
+   "logo": "luminar-web-skylum.png"
+  },
+  {
+   "n": "Autoenhance.ai",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Mejora automática por lotes, pensada para interiores.",
+   "x": "Mejora fotos por lotes con IA (luz, color, cielos), muy usada en fotografía inmobiliaria. Prueba gratuita; luego por suscripción o créditos.",
+   "u": "https://autoenhance.ai",
+   "logo": "autoenhance-ai.png"
+  },
+  {
+   "n": "BgSub",
+   "c": "webs",
+   "p": "gratis",
+   "a": "abrir",
+   "d": "Quita el fondo gratis y sin registrarte.",
+   "x": "Quitafondos web gratuito que no pide cuenta: subes, procesa y descargas. Sencillo y directo para recortes rápidos.",
+   "u": "https://bgsub.com",
+   "logo": "bgsub.png"
+  },
+  {
+   "n": "Slazzer",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Quitafondos automático con editor de fondos nuevos.",
+   "x": "Alternativa a remove.bg con editor para poner fondos de color o imagen tras el recorte. Vista previa gratuita; la alta calidad va por créditos.",
+   "u": "https://www.slazzer.com",
+   "logo": "slazzer.png"
+  },
+  {
+   "n": "Watermark Remover",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Elimina marcas de agua de fotos de stock y propias.",
+   "x": "Herramienta de watermarkremover.io para borrar marcas de agua con IA. Útil para limpiar tus propias fotos marcadas; respeta siempre los derechos de las ajenas. Gratis con límites.",
+   "u": "https://www.watermarkremover.io",
+   "logo": "watermark-remover.png"
+  },
+  {
+   "n": "Kapwing",
+   "c": "webs",
+   "p": "limites",
+   "a": "abrir",
+   "d": "Editor web de foto y video con ayuda de IA.",
+   "x": "Editor en línea con quitar fondos, mejora y montaje de foto y video para redes. Plan gratuito con marca en parte de las exportaciones.",
+   "u": "https://www.kapwing.com",
+   "logo": "kapwing.png"
+  },
+  {
+   "n": "Magic Eraser (Google Fotos)",
+   "c": "webs",
+   "p": "gratis",
+   "a": "abrir",
+   "d": "Borra personas y objetos desde Google Fotos.",
+   "x": "El Borrador mágico de Google Fotos (web y móvil) elimina personas y objetos marcándolos con el dedo; gratis para los usuarios de Google Fotos en equipos compatibles.",
+   "u": "https://photos.google.com",
+   "logo": "magic-eraser-google-fotos.png"
+  }
+ ],
+ "nota": "Catálogo inicial de LYtools. Cada entrada: n=nombre, c=categoría (programas|plugins|lightroom|webs), d=descripción corta de la ficha, x=detalle del botón de información, p=precio (gratis|limites|pago|mixto), a=acción (descargar|abrir|pagina). Los enlaces oficiales se verifican al construir la aplicación y en cada actualización del catálogo.",
+ "version": 1,
+ "nota_versiones": "Cada entrada lleva en «v» la última versión verificada en la página oficial del autor al actualizar el catálogo (null cuando el autor no publica número de versión). La aplicación compara «v» con la versión instalada que lee de Windows."
+}
