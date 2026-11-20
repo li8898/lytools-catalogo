@@ -13,6 +13,18 @@
    "logo": "upscayl.png",
    "detectar": [
     "upscayl"
+   ],
+   "dl": [
+    {
+     "t": "Instalador",
+     "u": "https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-win.exe",
+     "r": true
+    },
+    {
+     "t": "Portátil (ZIP)",
+     "u": "https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-win.zip",
+     "r": true
+    }
    ]
   },
   {
@@ -27,6 +39,13 @@
    "logo": "darktable.png",
    "detectar": [
     "darktable"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2-win64.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -41,6 +60,13 @@
    "logo": "rawtherapee.png",
    "detectar": [
     "rawtherapee"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://github.com/RawTherapee/RawTherapee/releases/download/5.13/RawTherapee_5.13_win64_x86_64_release.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -55,6 +81,13 @@
    "logo": "gimp.png",
    "detectar": [
     "gimp"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://download.gimp.org/gimp/v3.2/windows/gimp-3.2.8-setup.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -83,6 +116,18 @@
    "logo": "krita.png",
    "detectar": [
     "krita"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://download.kde.org/stable/krita/5.3.4.1/krita-x64-5.3.4.1-setup.exe",
+     "r": true
+    },
+    {
+     "t": "Portátil (ZIP) · 64 bits",
+     "u": "https://download.kde.org/stable/krita/5.3.4.1/krita-x64-5.3.4.1.zip",
+     "r": true
+    }
    ]
   },
   {
@@ -97,6 +142,18 @@
    "logo": "digikam.png",
    "detectar": [
     "digikam"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits (Qt6)",
+     "u": "https://download.kde.org/stable/digikam/9.1.0/digiKam-9.1.0-Qt6-Win64.exe",
+     "r": true
+    },
+    {
+     "t": "Instalador · 64 bits (Qt5)",
+     "u": "https://download.kde.org/stable/digikam/9.1.0/digiKam-9.1.0-Qt5-Win64.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -111,6 +168,28 @@
    "logo": "xnview-mp.png",
    "detectar": [
     "xnview"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://download.xnview.com/XnViewMP-win-x64.exe",
+     "r": true
+    },
+    {
+     "t": "Instalador · 32 bits",
+     "u": "https://download.xnview.com/XnViewMP-win.exe",
+     "r": true
+    },
+    {
+     "t": "Portátil (ZIP) · 64 bits",
+     "u": "https://download.xnview.com/XnViewMP-win-x64.zip",
+     "r": true
+    },
+    {
+     "t": "Portátil (ZIP) · 32 bits",
+     "u": "https://download.xnview.com/XnViewMP-win.zip",
+     "r": true
+    }
    ]
   },
   {
@@ -139,6 +218,18 @@
    "logo": "faststone-image-viewer.png",
    "detectar": [
     "faststone"
+   ],
+   "dl": [
+    {
+     "t": "Instalador",
+     "u": "https://www.faststone.org/DN/FSViewerSetup85.exe",
+     "r": true
+    },
+    {
+     "t": "Portátil (ZIP)",
+     "u": "https://www.faststonesoft.net/DN/FSViewer85.zip",
+     "r": true
+    }
    ]
   },
   {
@@ -181,6 +272,23 @@
    "logo": "paint-net.png",
    "detectar": [
     "paint.net"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://github.com/paintdotnet/release/releases/download/v5.2/paint.net.5.2.install.x64.zip",
+     "r": true
+    },
+    {
+     "t": "Portátil (ZIP) · 64 bits",
+     "u": "https://github.com/paintdotnet/release/releases/download/v5.2/paint.net.5.2.portable.x64.zip",
+     "r": true
+    },
+    {
+     "t": "Instalador MSI · 64 bits",
+     "u": "https://github.com/paintdotnet/release/releases/download/v5.2/paint.net.5.2.winmsi.x64.zip",
+     "r": true
+    }
    ]
   },
   {
@@ -195,6 +303,13 @@
    "logo": "topaz-photo.png",
    "detectar": [
     "topaz photo"
+   ],
+   "dl": [
+    {
+     "t": "Instalador",
+     "u": "https://downloads.topazlabs.com/deploy/TopazPhoto/1.8.2/TopazPhoto-1.8.2.msi",
+     "r": true
+    }
    ]
   },
   {
@@ -209,6 +324,13 @@
    "logo": "topaz-gigapixel.png",
    "detectar": [
     "gigapixel"
+   ],
+   "dl": [
+    {
+     "t": "Instalador",
+     "u": "https://downloads.topazlabs.com/deploy/TopazGigapixel/1.5.0/TopazGigapixel-1.5.0.msi",
+     "r": true
+    }
    ]
   },
   {
@@ -223,6 +345,13 @@
    "logo": "dxo-photolab.png",
    "detectar": [
     "photolab"
+   ],
+   "dl": [
+    {
+     "t": "Instalador",
+     "u": "https://download-center.dxo.com/PhotoLab/v10/Win/DxO_PhotoLab10_Setup.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -265,6 +394,13 @@
    "logo": "luminar-neo.png",
    "detectar": [
     "luminar"
+   ],
+   "dl": [
+    {
+     "t": "Instalador (ZIP)",
+     "u": "https://downloads.skylum.com/luminarneo/win/Win_Luminar_Neo_MSI.zip",
+     "r": true
+    }
    ]
   },
   {
@@ -279,6 +415,13 @@
    "logo": "acdsee-photo-studio.png",
    "detectar": [
     "acdsee"
+   ],
+   "dl": [
+    {
+     "t": "Instalador completo",
+     "u": "https://dl.acdsystems.com/acdsee/en/acdsee-photo-studio-ultimate-2027-win-en.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -307,6 +450,13 @@
    "logo": "corel-paintshop-pro.png",
    "detectar": [
     "paintshop"
+   ],
+   "dl": [
+    {
+     "t": "Instalador de prueba",
+     "u": "https://dwnld.paintshoppro.com/trials/psp/2023/VrCk2he58y/PSP2023Installer.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -335,6 +485,13 @@
    "logo": "aftershoot.png",
    "detectar": [
     "aftershoot"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://download.aftershoot.com/production/x86_64-windows/AfterShoot-win-latest-2.25.3.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -349,6 +506,13 @@
    "logo": "narrative-select.png",
    "detectar": [
     "narrative"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://downloads.narrative.so/select/narrative-select-2.8.0-win-x64.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -377,6 +541,13 @@
    "logo": "excire-foto.png",
    "detectar": [
     "excire foto"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://excire.com/downloads/excire-foto/ExcireFoto-5.1.1-x64.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -391,6 +562,18 @@
    "logo": "evoto-ai.png",
    "detectar": [
     "evoto"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 8.1.0",
+     "u": "https://res.evoto.ai/package/8.1.0-407/Evoto_Setup_8.1.0-407.exe",
+     "r": true
+    },
+    {
+     "t": "Instalador · 8.0.0",
+     "u": "https://res.evoto.ai/package/8.0.0-758/Evoto_Setup_8.0.0-758.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -405,6 +588,13 @@
    "logo": "radiant-photo.png",
    "detectar": [
     "radiant photo"
+   ],
+   "dl": [
+    {
+     "t": "Instalador",
+     "u": "https://download.radiantimaginglabs.com/appsmanager/prod/windows/RadiantPhoto2_installer.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -447,6 +637,13 @@
    "logo": "photo-mechanic.png",
    "detectar": [
     "photo mechanic"
+   ],
+   "dl": [
+    {
+     "t": "Instalador (MSI)",
+     "u": "https://www.camerabits.com/download/PhotoMechanicR9175_2cfdfbbb.msi",
+     "r": true
+    }
    ]
   },
   {
@@ -461,6 +658,13 @@
    "logo": "fastrawviewer.png",
    "detectar": [
     "fastrawviewer"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · 64 bits",
+     "u": "https://updates.fastrawviewer.com/data/FastRawViewer-2.0.11.2088-x64-Setup.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -475,6 +679,13 @@
    "logo": "mylio-photos.png",
    "detectar": [
     "mylio"
+   ],
+   "dl": [
+    {
+     "t": "Instalador MSIX · 64 bits",
+     "u": "https://myliodownloads.com/Mylio_x64.msix",
+     "r": true
+    }
    ]
   },
   {
@@ -726,6 +937,13 @@
    "logo": "filter-forge.png",
    "detectar": [
     "filter forge"
+   ],
+   "dl": [
+    {
+     "t": "Instalador · Windows",
+     "u": "https://www.filterforge.com/download/software/Filter%20Forge%2015%20Setup.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -824,6 +1042,13 @@
    "logo": "ptlens.png",
    "detectar": [
     "ptlens"
+   ],
+   "dl": [
+    {
+     "t": "ZIP · Windows (programa + plugin)",
+     "u": "https://epaperpress.com/ptlens/PTLensWin.zip",
+     "r": true
+    }
    ]
   },
   {
@@ -852,6 +1077,38 @@
    "logo": "akvis-suite-de-retoque.png",
    "detectar": [
     "akvis"
+   ],
+   "dl": [
+    {
+     "t": "Retoucher · Windows 64 bits",
+     "u": "https://akvis-dl.sfo2.cdn.digitaloceanspaces.com/akvis-retoucher-setup-x64.exe",
+     "r": true
+    },
+    {
+     "t": "MakeUp · Windows 64 bits",
+     "u": "https://akvis-dl.sfo2.cdn.digitaloceanspaces.com/akvis-makeup-setup-x64.exe",
+     "r": true
+    },
+    {
+     "t": "Enhancer · Windows 64 bits",
+     "u": "https://akvis-dl.sfo2.cdn.digitaloceanspaces.com/akvis-enhancer-setup-x64.exe",
+     "r": true
+    },
+    {
+     "t": "Noise Buster · Windows 64 bits",
+     "u": "https://akvis-dl.sfo2.cdn.digitaloceanspaces.com/akvis-noise-buster-setup-x64.exe",
+     "r": true
+    },
+    {
+     "t": "Refocus · Windows 64 bits",
+     "u": "https://akvis-dl.sfo2.cdn.digitaloceanspaces.com/akvis-refocus-setup-x64.exe",
+     "r": true
+    },
+    {
+     "t": "SmartMask · Windows 64 bits",
+     "u": "https://akvis-dl.sfo2.cdn.digitaloceanspaces.com/akvis-smartmask-setup-x64.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -880,6 +1137,13 @@
    "logo": null,
    "detectar": [
     "enfuse"
+   ],
+   "dl": [
+    {
+     "t": "ZIP del plugin (v4.34)",
+     "u": "https://www.photographers-toolbox.com/downloads/LREnfuse.lrplugin.4.34.zip",
+     "r": true
+    }
    ]
   },
   {
@@ -894,6 +1158,13 @@
    "logo": "midi2lr.png",
    "detectar": [
     "midi2lr"
+   ],
+   "dl": [
+    {
+     "t": "Instalador para Windows (v6.3.1.0)",
+     "u": "https://github.com/rsjaffe/MIDI2LR/releases/download/v6.3.1.0/MIDI2LR-6.3.1.0-windows-installer.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -922,6 +1193,13 @@
    "logo": "excire-search-plugin.png",
    "detectar": [
     "excire search"
+   ],
+   "dl": [
+    {
+     "t": "Instalador para Windows (v5.0.6)",
+     "u": "https://www.excire.com/downloads/excire-search/ExcireSearch-5.0.6-x64.exe",
+     "r": true
+    }
    ]
   },
   {
@@ -950,6 +1228,13 @@
    "logo": "any-filter-john-r-ellis.png",
    "detectar": [
     "any filter"
+   ],
+   "dl": [
+    {
+     "t": "ZIP del plugin (v1.79)",
+     "u": "https://johnrellis.com/lightroom/anyfilter.1.79.zip",
+     "r": true
+    }
    ]
   },
   {
@@ -1395,9 +1680,269 @@
    "x": "El Borrador mágico de Google Fotos (web y móvil) elimina personas y objetos marcándolos con el dedo; gratis para los usuarios de Google Fotos en equipos compatibles.",
    "u": "https://photos.google.com",
    "logo": "magic-eraser-google-fotos.png"
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Pinceles gratis para Photoshop, y también patrones, texturas, acciones y PSD.",
+   "n": "Brusheezy",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://www.brusheezy.com",
+   "x": "Una de las bibliotecas clásicas de pinceles (.abr) subidos por la comunidad: miles de juegos de brochas, patrones, texturas y archivos PSD. La mayoría se puede usar en trabajos comerciales, pero casi todos piden atribución al autor, y el sitio mezcla contenido gratuito con premium.",
+   "v": null,
+   "logo": "brusheezy.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Pinceles gratis de Photoshop reunidos en un solo sitio, por categorías.",
+   "n": "MyPhotoshopBrushes",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://myphotoshopbrushes.com",
+   "x": "Miles de juegos de pinceles gratuitos ordenados por tema: grunge, acuarela, humo, pelo, luces y más. Cada pincel es de su autor y lleva su propia licencia; muchos son libres también para uso comercial pidiendo crédito. No hace falta registro para descargar.",
+   "v": null,
+   "logo": "myphotoshopbrushes.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Pinceles, vectores y PSD gratis con atribución, de la familia de Brusheezy.",
+   "n": "Vecteezy",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://www.vecteezy.com",
+   "x": "Banco enorme de recursos: pinceles de Photoshop, vectores, fotos y plantillas PSD. Lo gratuito se descarga con atribución obligatoria y con límite diario; los archivos con corona son premium. Útil cuando buscas un pincel, un fondo o una textura concreta y rápida.",
+   "v": null,
+   "logo": "vecteezy.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Pinceles gratis compartidos por la comunidad de artistas de DeviantArt.",
+   "n": "DeviantArt · Pinceles",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://www.deviantart.com/resources/brushes",
+   "x": "La categoría de recursos de DeviantArt guarda miles de paquetes de pinceles, acciones, degradados y PSD que los propios artistas comparten gratis. Cada autor pone sus condiciones (muchos solo piden crédito) y para descargar hay que tener cuenta, que es gratuita.",
+   "v": null,
+   "logo": "deviantart-pinceles.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Pinceles gratis oficiales de Kyle T. Webster, desde la propia Adobe.",
+   "n": "Adobe · Pinceles de Kyle Webster",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://www.adobe.com/products/photoshop/brushes.html",
+   "x": "Los famosos pinceles de Kyle T. Webster (acuarela, tinta, lápiz, lettering) se consiguen gratis desde Photoshop con «Obtener más pinceles» o desde esta página de Adobe. Hace falta una cuenta de Adobe; con la suscripción a Creative Cloud están todos incluidos.",
+   "v": null,
+   "logo": "adobe-pinceles-de-kyle-webster.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Pinceles de medios naturales para Photoshop: muestras gratis y catálogo de pago.",
+   "n": "GrutBrushes",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://www.grutbrushes.com",
+   "x": "GrutBrushes crea pinceles que imitan óleo, acuarela, tinta y gouache, muy valorados por ilustradores. La tienda es de pago, pero regala un paquete de muestras gratuitas para probar la calidad antes, y de vez en cuando publica más pinceles gratis.",
+   "v": null,
+   "logo": "grutbrushes.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Texturas, pinceles y PSD: recursos premium con descargas gratis frecuentes.",
+   "n": "WeGraphics",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://we.graphics",
+   "x": "WeGraphics vende paquetes de texturas, pinceles, vectores y PSD, y mantiene una parte gratuita que se renueva con frecuencia. Lo gratis suele poder usarse en proyectos comerciales con atribución; el resto del catálogo funciona por suscripción.",
+   "v": null,
+   "logo": "wegraphics.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "PSD, vectores, fotos y pinceles gratis con atribución, en un banco gigante.",
+   "n": "Freepik",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://www.freepik.com",
+   "x": "Uno de los bancos de recursos más grandes del mundo: millones de PSD, plantillas, vectores, texturas y fotos. Lo marcado como gratis se descarga atribuyendo al autor y tiene límite diario; los archivos con corona son premium. Ideal para fondos, maquetas y material de fotomontaje.",
+   "v": null,
+   "logo": "freepik.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Recursos gratis cada semana: fuentes, texturas, overlays y PSD de la tienda.",
+   "n": "Creative Market · Free Goods",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://creativemarket.com/free-goods",
+   "x": "Cada semana Creative Market regala varios productos de sus tiendas (fuentes, texturas, marcos, overlays de luz, maquetas PSD) que el resto del tiempo son de pago. Para descargarlos hay que tener cuenta gratuita, y quedan con la licencia comercial simplificada de la tienda.",
+   "v": null,
+   "logo": "creative-market-free-goods.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Archivos gratis del mes de Envato: fuentes, texturas, acciones y plantillas.",
+   "n": "Envato Elements · Archivos gratis",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://elements.envato.com/free-files",
+   "x": "Envato Elements publica cada mes una selección de archivos gratuitos de su catálogo de suscripción: fuentes, texturas, acciones de Photoshop, plantillas y gráficos. Se descargan con una cuenta gratuita de Envato y quedan licenciados a tu nombre.",
+   "v": null,
+   "logo": "envato-elements-archivos-gratis.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Recursos gratis de calidad: maquetas PSD, texturas, pinceles y efectos de foto.",
+   "n": "Pixelbuddha · Freebies",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://pixelbuddha.net/freebies",
+   "x": "Pixelbuddha mezcla productos premium con una sección de regalos muy cuidada: maquetas en PSD, texturas, overlays y efectos fotográficos. Algunos freebies se descargan directo y otros piden el correo; en la mayoría la licencia permite uso comercial.",
+   "v": null,
+   "logo": "pixelbuddha-freebies.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Freebies de diseño: texturas, pinceles, vectores y maquetas PSD gratis.",
+   "n": "Spoon Graphics · Freebies",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://blog.spoongraphics.co.uk/category/freebies",
+   "x": "El blog de Chris Spooner publica recursos gratuitos desde hace años: paquetes de texturas, pinceles, vectores y maquetas. Una parte se descarga sin más y otra es exclusiva para suscriptores de su lista o miembros; casi todo vale también para uso comercial.",
+   "v": null,
+   "logo": "spoon-graphics-freebies.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Texturas gratis en alta resolución para fotomontaje y fondos: papel, madera, metal…",
+   "n": "Textures.com",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://www.textures.com",
+   "x": "La referencia en texturas fotográficas: miles de imágenes en alta resolución ordenadas por material. Con la cuenta gratuita recibes créditos diarios para descargar en tamaño medio; los tamaños gigantes y parte del catálogo son de pago, y su licencia no permite redistribuir las texturas tal cual.",
+   "v": null,
+   "logo": "textures-com.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Acciones gratis para Photoshop: efectos de foto, marcos, collages y más.",
+   "n": "PanosFX",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://www.panosfx.com/free-photoshop-actions",
+   "x": "PanosFX lleva años creando acciones; su sección gratuita trae efectos completos (foto antigua, marcos, rompecabezas, reflejos) que se descargan sin registro y se pueden usar también en encargos de clientes. El mismo sitio vende acciones más avanzadas.",
+   "v": null,
+   "logo": "panosfx.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Patrones gratis sutiles y repetibles para fondos, de Toptal.",
+   "n": "Subtle Patterns",
+   "p": "limites",
+   "s": "recursos",
+   "u": "https://www.toptal.com/designers/subtlepatterns",
+   "x": "Cientos de patrones ligeros que se repiten sin costuras, perfectos para fondos de álbumes, invitaciones y web. Se descargan sin registro; están bajo licencia Creative Commons, así que hay que dar crédito al autor cuando se usan.",
+   "v": null,
+   "logo": "subtle-patterns.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Texturas gratis de alta resolución, libres también para trabajos comerciales.",
+   "n": "Lost & Taken",
+   "p": "gratis",
+   "s": "recursos",
+   "u": "https://lostandtaken.com",
+   "x": "Galería de texturas fotografiadas a mano (papel, madera, grunge, acuarela) en alta resolución. Todo es gratis para uso personal y comercial sin obligación de atribuir —solo lo agradecen— y se descarga sin registro. De lo más limpio que hay para fondos de fotomontaje.",
+   "v": null,
+   "logo": null,
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Texturas gratis en altísima resolución: grunge, papel, película, polvo y lluvia.",
+   "n": "Texturelabs",
+   "p": "gratis",
+   "s": "recursos",
+   "u": "https://texturelabs.org",
+   "x": "Texturas creadas por un diseñador y compartidas gratis, muchas de más de 7000 píxeles: grunge, papel, fugas de luz, polvo, lluvia y película antigua, ideales como overlays. Son libres para proyectos personales y comerciales, sin registro.",
+   "v": null,
+   "logo": "texturelabs.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Maquetas PSD gratis y recursos para presentar fotos y diseños.",
+   "n": "GraphicBurger",
+   "p": "gratis",
+   "s": "recursos",
+   "u": "https://graphicburger.com",
+   "x": "Maquetas realistas en PSD (libros, marcos, dispositivos, carteles) y pequeños recursos gráficos, todo gratuito y con licencia que permite uso comercial; agradecen la atribución pero no la exigen. Muy útil para enseñar photobooks y láminas a los clientes.",
+   "v": null,
+   "logo": "graphicburger.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Fuentes gratis y libres para títulos de álbumes, invitaciones y papelería.",
+   "n": "Google Fonts",
+   "p": "gratis",
+   "s": "recursos",
+   "u": "https://fonts.google.com",
+   "x": "El catálogo de fuentes de Google: cientos de familias tipográficas de código abierto, gratis también para trabajos comerciales y sin atribución obligatoria. Se descargan en segundos y se instalan en Windows para usarlas en Photoshop.",
+   "v": null,
+   "logo": "google-fonts.png",
+   "detectar": []
+  },
+  {
+   "a": "abrir",
+   "c": "webs",
+   "d": "Fuentes gratis seleccionadas a mano, aptas para uso comercial.",
+   "n": "Font Squirrel",
+   "p": "gratis",
+   "s": "recursos",
+   "u": "https://www.fontsquirrel.com",
+   "x": "Font Squirrel reúne fuentes gratuitas revisadas una a una y marca la licencia de cada una; casi todas sirven para uso comercial. Tiene un identificador de fuentes y herramientas para generar paquetes. Buen complemento de Google Fonts para títulos y textos de álbum.",
+   "v": null,
+   "logo": "font-squirrel.png",
+   "detectar": []
   }
  ],
  "nota": "Catálogo inicial de LYtools. Cada entrada: n=nombre, c=categoría (programas|plugins|lightroom|webs), d=descripción corta de la ficha, x=detalle del botón de información, p=precio (gratis|limites|pago|mixto), a=acción (descargar|abrir|pagina). Los enlaces oficiales se verifican al construir la aplicación y en cada actualización del catálogo.",
- "version": 1,
- "nota_versiones": "Cada entrada lleva en «v» la última versión verificada en la página oficial del autor al actualizar el catálogo (null cuando el autor no publica número de versión). La aplicación compara «v» con la versión instalada que lee de Windows."
+ "version": 2,
+ "nota_versiones": "Versiones verificadas en las páginas oficiales el 2026-11-20. La v2 añade la descarga directa (45 opciones oficiales en 30 herramientas) y 20 páginas de recursos gratis para Photoshop."
 }
